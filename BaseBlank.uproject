@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "D410678E-F848-B933-90F5-A39B7BE280F7",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "BaseBlank",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
