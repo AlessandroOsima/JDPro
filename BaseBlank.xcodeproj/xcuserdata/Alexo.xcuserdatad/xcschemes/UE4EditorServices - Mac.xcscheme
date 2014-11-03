@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D0630CFF442BD687B41B465E"
+               BlueprintIdentifier = "399CA4D63AEDFBA613DD5BAD"
                BuildableName = "UE4EditorServices - Mac"
                BlueprintName = "UE4EditorServices - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E0A76117C4874CDF977AA29"
+               BlueprintIdentifier = "A45671320F375C1CF557061C"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0630CFF442BD687B41B465E"
+            BlueprintIdentifier = "399CA4D63AEDFBA613DD5BAD"
             BuildableName = "UE4EditorServices - Mac"
             BlueprintName = "UE4EditorServices - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0630CFF442BD687B41B465E"
+            BlueprintIdentifier = "399CA4D63AEDFBA613DD5BAD"
             BuildableName = "UE4EditorServices - Mac"
             BlueprintName = "UE4EditorServices - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D0630CFF442BD687B41B465E"
+            BlueprintIdentifier = "399CA4D63AEDFBA613DD5BAD"
             BuildableName = "UE4EditorServices.app"
             BlueprintName = "UE4EditorServices"
             ReferencedContainer = "container:UE4.xcodeproj">

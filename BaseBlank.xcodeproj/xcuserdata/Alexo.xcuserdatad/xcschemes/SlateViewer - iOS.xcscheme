@@ -14,7 +14,7 @@
            buildForAnalyzing = "YES">
            <BuildableReference
               BuildableIdentifier = "primary"
-              BlueprintIdentifier = "589DB3A7E5020406B68D5946"
+              BlueprintIdentifier = "FBBDB5FA3AF5D43D8A9CE1F7"
               BuildableName = "SlateViewer.app"
               BlueprintName = "SlateViewer - iOS"
               ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
            skipped = "NO">
            <BuildableReference
               BuildableIdentifier = "primary"
-              BlueprintIdentifier = "9E0A76117C4874CDF977AA29"
+              BlueprintIdentifier = "A45671320F375C1CF557061C"
               BuildableName = "UE4CmdLineRun.xctest"
               BlueprintName = "UE4CmdLineRun"
               ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
      <MacroExpansion>
         <BuildableReference
            BuildableIdentifier = "primary"
-           BlueprintIdentifier = "589DB3A7E5020406B68D5946"
+           BlueprintIdentifier = "FBBDB5FA3AF5D43D8A9CE1F7"
            BuildableName = "SlateViewer.app"
            BlueprintName = "SlateViewer - iOS"
            ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -61,7 +61,7 @@
      <BuildableProductRunnable>
         <BuildableReference
            BuildableIdentifier = "primary"
-           BlueprintIdentifier = "589DB3A7E5020406B68D5946"
+           BlueprintIdentifier = "FBBDB5FA3AF5D43D8A9CE1F7"
            BuildableName = "SlateViewer.app"
            BlueprintName = "SlateViewer - iOS"
            ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
      <BuildableProductRunnable>
          <BuildableReference
              BuildableIdentifier = "primary"
-	          BlueprintIdentifier = "589DB3A7E5020406B68D5946"
+	          BlueprintIdentifier = "FBBDB5FA3AF5D43D8A9CE1F7"
              BuildableName = "SlateViewer.app"
              BlueprintName = "SlateViewer"
              ReferencedContainer = "container:UE4.xcodeproj">

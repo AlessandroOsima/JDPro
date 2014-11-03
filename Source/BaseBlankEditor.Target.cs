@@ -20,6 +20,7 @@ public class BaseBlankEditorTarget : TargetRules
 		ref List<string> OutExtraModuleNames
 		)
 	{
-		OutExtraModuleNames.AddRange( new string[] { "BaseBlank" } );
+
+		OutExtraModuleNames.AddRange( new string[] { "BaseBlankEditor" } );
 	}
 }

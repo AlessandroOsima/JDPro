@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BDB3FF3A2FC3635C35B546DC"
+               BlueprintIdentifier = "E453575D218EDD6BC0982034"
                BuildableName = "UE4Client - Mac"
                BlueprintName = "UE4Client - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E0A76117C4874CDF977AA29"
+               BlueprintIdentifier = "A45671320F375C1CF557061C"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BDB3FF3A2FC3635C35B546DC"
+            BlueprintIdentifier = "E453575D218EDD6BC0982034"
             BuildableName = "UE4Client - Mac"
             BlueprintName = "UE4Client - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BDB3FF3A2FC3635C35B546DC"
+            BlueprintIdentifier = "E453575D218EDD6BC0982034"
             BuildableName = "UE4Client - Mac"
             BlueprintName = "UE4Client - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BDB3FF3A2FC3635C35B546DC"
+            BlueprintIdentifier = "E453575D218EDD6BC0982034"
             BuildableName = "UE4Client.app"
             BlueprintName = "UE4Client"
             ReferencedContainer = "container:UE4.xcodeproj">

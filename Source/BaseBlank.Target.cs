@@ -20,6 +20,12 @@ public class BaseBlankTarget : TargetRules
 		ref List<string> OutExtraModuleNames
 		)
 	{
+
+		if (UEBuildConfiguration.bBuildEditor)
+		{
+			OutExtraModuleNames.Add("BaseBlankEditor");
+		}
+
 		OutExtraModuleNames.AddRange( new string[] { "BaseBlank" } );
 	}
 }

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A6DB38C8556364282ABB3CCD"
+               BlueprintIdentifier = "0F9A1AAE3B392938820F56E9"
                BuildableName = "UE4Game - Mac"
                BlueprintName = "UE4Game - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9E0A76117C4874CDF977AA29"
+               BlueprintIdentifier = "A45671320F375C1CF557061C"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A6DB38C8556364282ABB3CCD"
+            BlueprintIdentifier = "0F9A1AAE3B392938820F56E9"
             BuildableName = "UE4Game - Mac"
             BlueprintName = "UE4Game - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A6DB38C8556364282ABB3CCD"
+            BlueprintIdentifier = "0F9A1AAE3B392938820F56E9"
             BuildableName = "UE4Game - Mac"
             BlueprintName = "UE4Game - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -92,7 +92,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A6DB38C8556364282ABB3CCD"
+            BlueprintIdentifier = "0F9A1AAE3B392938820F56E9"
             BuildableName = "UE4.app"
             BlueprintName = "UE4"
             ReferencedContainer = "container:UE4.xcodeproj">

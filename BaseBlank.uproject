@@ -8,6 +8,11 @@
 			"Name": "BaseBlank",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
-		}
+		},
+                {
+                        "Name": "BaseBlankEditor",
+                        "Type": "Editor",
+                        "LoadingPhase": "Default"
+                } 
 	]
 }
