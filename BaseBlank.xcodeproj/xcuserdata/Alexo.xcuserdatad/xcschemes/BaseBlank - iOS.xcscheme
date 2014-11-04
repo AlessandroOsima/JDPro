@@ -14,7 +14,7 @@
            buildForAnalyzing = "YES">
            <BuildableReference
               BuildableIdentifier = "primary"
-              BlueprintIdentifier = "5A2074D7D306A9113C8903DF"
+              BlueprintIdentifier = "B2B801A5A3C9F02D869CD7CE"
               BuildableName = "BaseBlank.app"
               BlueprintName = "BaseBlank - iOS"
               ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
            skipped = "NO">
            <BuildableReference
               BuildableIdentifier = "primary"
-              BlueprintIdentifier = "A45671320F375C1CF557061C"
+              BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
               BuildableName = "UE4CmdLineRun.xctest"
               BlueprintName = "UE4CmdLineRun"
               ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
      <MacroExpansion>
         <BuildableReference
            BuildableIdentifier = "primary"
-           BlueprintIdentifier = "5A2074D7D306A9113C8903DF"
+           BlueprintIdentifier = "B2B801A5A3C9F02D869CD7CE"
            BuildableName = "BaseBlank.app"
            BlueprintName = "BaseBlank - iOS"
            ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -61,7 +61,7 @@
      <BuildableProductRunnable>
         <BuildableReference
            BuildableIdentifier = "primary"
-           BlueprintIdentifier = "5A2074D7D306A9113C8903DF"
+           BlueprintIdentifier = "B2B801A5A3C9F02D869CD7CE"
            BuildableName = "BaseBlank.app"
            BlueprintName = "BaseBlank - iOS"
            ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -92,7 +92,7 @@
      <BuildableProductRunnable>
          <BuildableReference
              BuildableIdentifier = "primary"
-	          BlueprintIdentifier = "5A2074D7D306A9113C8903DF"
+	          BlueprintIdentifier = "B2B801A5A3C9F02D869CD7CE"
              BuildableName = "BaseBlank.app"
              BlueprintName = "BaseBlank"
              ReferencedContainer = "container:UE4.xcodeproj">

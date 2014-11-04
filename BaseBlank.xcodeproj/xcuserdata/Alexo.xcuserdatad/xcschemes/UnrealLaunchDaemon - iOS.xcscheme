@@ -14,7 +14,7 @@
            buildForAnalyzing = "YES">
            <BuildableReference
               BuildableIdentifier = "primary"
-              BlueprintIdentifier = "F9C0EF89CD9DF00764DA69F1"
+              BlueprintIdentifier = "CAFD59D6B5FE2A05A1509E80"
               BuildableName = "UnrealLaunchDaemon.app"
               BlueprintName = "UnrealLaunchDaemon - iOS"
               ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
            skipped = "NO">
            <BuildableReference
               BuildableIdentifier = "primary"
-              BlueprintIdentifier = "A45671320F375C1CF557061C"
+              BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
               BuildableName = "UE4CmdLineRun.xctest"
               BlueprintName = "UE4CmdLineRun"
               ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
      <MacroExpansion>
         <BuildableReference
            BuildableIdentifier = "primary"
-           BlueprintIdentifier = "F9C0EF89CD9DF00764DA69F1"
+           BlueprintIdentifier = "CAFD59D6B5FE2A05A1509E80"
            BuildableName = "UnrealLaunchDaemon.app"
            BlueprintName = "UnrealLaunchDaemon - iOS"
            ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -61,7 +61,7 @@
      <BuildableProductRunnable>
         <BuildableReference
            BuildableIdentifier = "primary"
-           BlueprintIdentifier = "F9C0EF89CD9DF00764DA69F1"
+           BlueprintIdentifier = "CAFD59D6B5FE2A05A1509E80"
            BuildableName = "UnrealLaunchDaemon.app"
            BlueprintName = "UnrealLaunchDaemon - iOS"
            ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
      <BuildableProductRunnable>
          <BuildableReference
              BuildableIdentifier = "primary"
-	          BlueprintIdentifier = "F9C0EF89CD9DF00764DA69F1"
+	          BlueprintIdentifier = "CAFD59D6B5FE2A05A1509E80"
              BuildableName = "UnrealLaunchDaemon.app"
              BlueprintName = "UnrealLaunchDaemon"
              ReferencedContainer = "container:UE4.xcodeproj">

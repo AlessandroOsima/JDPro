@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "14C462B7D16B3D3DC3CE639E"
+               BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
                BuildableName = "UnrealFileServer - Mac"
                BlueprintName = "UnrealFileServer - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A45671320F375C1CF557061C"
+               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "14C462B7D16B3D3DC3CE639E"
+            BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
             BuildableName = "UnrealFileServer - Mac"
             BlueprintName = "UnrealFileServer - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "14C462B7D16B3D3DC3CE639E"
+            BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
             BuildableName = "UnrealFileServer - Mac"
             BlueprintName = "UnrealFileServer - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "14C462B7D16B3D3DC3CE639E"
+            BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
             BuildableName = "UnrealFileServer"
             BlueprintName = "UnrealFileServer"
             ReferencedContainer = "container:UE4.xcodeproj">

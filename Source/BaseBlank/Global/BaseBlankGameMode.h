@@ -13,6 +13,6 @@ class BASEBLANK_API ABaseBlankGameMode : public AGameMode
 {
 	GENERATED_UCLASS_BODY()
 
-	
+    virtual void HandleMatchIsWaitingToStart() override;
 	
 };

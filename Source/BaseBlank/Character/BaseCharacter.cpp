@@ -22,7 +22,13 @@ void ABaseCharacter::BeginPlay()
 {
     Super::BeginPlay();
     
-    check(Configuration);
+     ensureMsg(Configuration != nullptr, TEXT("[BaseCharacter]No valid configuration found"));
+    
+    if(Configuration != nullptr)
+    {
+        BlackboardAsset = Configuration->BlackboardAsset;
+        BHTAsset = Configuration->BehaviorTreeAsset;
+    }
     
     SpawnDefaultController();
     

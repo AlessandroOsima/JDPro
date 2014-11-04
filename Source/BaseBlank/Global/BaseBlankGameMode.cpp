@@ -3,6 +3,8 @@
 #include "BaseBlank.h"
 #include "BaseBlankGameMode.h"
 #include "Camera/CameraPawn.h"
+#include "Character/SpawnPoint/SpawnPoint.h"
+#include "EngineUtils.h"
 
 ABaseBlankGameMode::ABaseBlankGameMode(const class FPostConstructInitializeProperties& PCIP)
 	: Super(PCIP)
@@ -17,3 +19,14 @@ ABaseBlankGameMode::ABaseBlankGameMode(const class FPostConstructInitializePrope
 }
 
 
+void ABaseBlankGameMode::HandleMatchIsWaitingToStart()
+{
+    UWorld* World = GetWorld();
+
+    for (TActorIterator<ASpawnPoint> It(World); It; ++It)
+    {
+        It->Spawn();
+    }
+    
+    Super::HandleMatchIsWaitingToStart();
+}

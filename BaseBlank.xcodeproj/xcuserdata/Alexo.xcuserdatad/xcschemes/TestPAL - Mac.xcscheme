@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "77A43BA489FA5A4C8F026430"
+               BlueprintIdentifier = "1A512906C0B5A18B34FD30F4"
                BuildableName = "TestPAL - Mac"
                BlueprintName = "TestPAL - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A45671320F375C1CF557061C"
+               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "77A43BA489FA5A4C8F026430"
+            BlueprintIdentifier = "1A512906C0B5A18B34FD30F4"
             BuildableName = "TestPAL - Mac"
             BlueprintName = "TestPAL - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "77A43BA489FA5A4C8F026430"
+            BlueprintIdentifier = "1A512906C0B5A18B34FD30F4"
             BuildableName = "TestPAL - Mac"
             BlueprintName = "TestPAL - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "77A43BA489FA5A4C8F026430"
+            BlueprintIdentifier = "1A512906C0B5A18B34FD30F4"
             BuildableName = "TestPAL"
             BlueprintName = "TestPAL"
             ReferencedContainer = "container:UE4.xcodeproj">

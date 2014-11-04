@@ -3,6 +3,8 @@
 #pragma once
 
 #include "Engine/DataAsset.h"
+#include "BehaviorTree/BehaviorTreeComponent.h"
+#include "BehaviorTree/BlackboardComponent.h"
 #include "CharacterConfigurationAsset.generated.h"
 
 /**
@@ -17,7 +19,12 @@ class BASEBLANK_API UCharacterConfigurationAsset : public UDataAsset
 public:
     
 	UPROPERTY(EditAnywhere, Category=Life)
-    float Life = 0;
-
+    float Life = 100;
     
+    UPROPERTY(EditAnywhere, Category=Logic)
+    UBehaviorTree * BehaviorTreeAsset;
+    
+    UPROPERTY(EditAnywhere, Category=Logic)
+    UBlackboardData * BlackboardAsset;
+
 };

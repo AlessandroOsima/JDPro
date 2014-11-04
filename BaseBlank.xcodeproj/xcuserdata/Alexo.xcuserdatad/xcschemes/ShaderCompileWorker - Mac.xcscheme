@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "14F691682BE287C6E1F2ABF8"
+               BlueprintIdentifier = "39030C41443E7B2DDED889A2"
                BuildableName = "ShaderCompileWorker - Mac"
                BlueprintName = "ShaderCompileWorker - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A45671320F375C1CF557061C"
+               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "14F691682BE287C6E1F2ABF8"
+            BlueprintIdentifier = "39030C41443E7B2DDED889A2"
             BuildableName = "ShaderCompileWorker - Mac"
             BlueprintName = "ShaderCompileWorker - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -64,7 +64,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "14F691682BE287C6E1F2ABF8"
+            BlueprintIdentifier = "39030C41443E7B2DDED889A2"
             BuildableName = "ShaderCompileWorker - Mac"
             BlueprintName = "ShaderCompileWorker - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "14F691682BE287C6E1F2ABF8"
+            BlueprintIdentifier = "39030C41443E7B2DDED889A2"
             BuildableName = "ShaderCompileWorker"
             BlueprintName = "ShaderCompileWorker"
             ReferencedContainer = "container:UE4.xcodeproj">
