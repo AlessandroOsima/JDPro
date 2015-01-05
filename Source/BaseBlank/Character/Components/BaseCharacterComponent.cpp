@@ -5,7 +5,8 @@
 #include "Character/Components/BaseCharacterComponent.h"
 #include "Character/Configuration/CharacterConfigurationAsset.h"
 
-UBaseCharacterComponent::UBaseCharacterComponent(const class FPostConstructInitializeProperties& PCIP)
+
+UBaseCharacterComponent::UBaseCharacterComponent(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
     this->bAutoActivate = 1;
@@ -27,9 +28,17 @@ void UBaseCharacterComponent::BeginPlay()
     m_ownerBlackboard = m_owner->GetBlackboard();
     ensureMsg(m_ownerBlackboard != nullptr, TEXT("[BaseCharacterComponent]No blackboard component found"));
     
-    m_ownerConfiguration = m_owner->Configuration;
-    ensureMsg(m_ownerBlackboard != nullptr, TEXT("[BaseCharacterComponent]No owner configuration found"));
-    
-    
     this->OnBeginPlay();
+}
+
+void UBaseCharacterComponent::SetOwnerConfiguration(UCharacterConfigurationAsset *_chrConfig)
+{
+    m_ownerConfiguration = _chrConfig;
+    
+    OnOwnerConfigurationChange();
+}
+
+void UBaseCharacterComponent::OnOwnerConfigurationChange()
+{
+
 }

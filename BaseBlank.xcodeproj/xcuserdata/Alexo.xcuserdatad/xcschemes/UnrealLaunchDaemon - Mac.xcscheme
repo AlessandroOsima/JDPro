@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "753EB050E02DB1602DC0F746"
+               BlueprintIdentifier = "EA0CEF7F0C63CD74C830D9B5"
                BuildableName = "UnrealLaunchDaemon - Mac"
                BlueprintName = "UnrealLaunchDaemon - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
+               BlueprintIdentifier = "F439A6D0B5DDCD2C628C686A"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "753EB050E02DB1602DC0F746"
+            BlueprintIdentifier = "EA0CEF7F0C63CD74C830D9B5"
             BuildableName = "UnrealLaunchDaemon - Mac"
             BlueprintName = "UnrealLaunchDaemon - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -59,12 +59,12 @@
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <PathRunnable
-         FilePath = "/Users/Alexo/UnrealEngine/UnrealEngine/Engine/Binaries/Mac/UnrealLaunchDaemon-Mac-Debug.app">
+         FilePath = "/Users/Alexo/Documents/UnrealEngine/Engine/Binaries/Mac/UnrealLaunchDaemon-Mac-Debug.app">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "753EB050E02DB1602DC0F746"
+            BlueprintIdentifier = "EA0CEF7F0C63CD74C830D9B5"
             BuildableName = "UnrealLaunchDaemon - Mac"
             BlueprintName = "UnrealLaunchDaemon - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "753EB050E02DB1602DC0F746"
+            BlueprintIdentifier = "EA0CEF7F0C63CD74C830D9B5"
             BuildableName = "UnrealLaunchDaemon.app"
             BlueprintName = "UnrealLaunchDaemon"
             ReferencedContainer = "container:UE4.xcodeproj">

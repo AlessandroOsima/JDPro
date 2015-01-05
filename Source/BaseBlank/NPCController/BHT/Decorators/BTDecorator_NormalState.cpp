@@ -3,28 +3,21 @@
 #include "BaseBlank.h"
 #include "BTDecorator_NormalState.h"
 #include "Character/BaseCharacter.h"
-#include "Character/Components/LifeComponent.h"
+#include "NPCController/Components/BehaviourComponent.h"
 
-UBTDecorator_NormalState::UBTDecorator_NormalState(const class FPostConstructInitializeProperties& PCIP)
+UBTDecorator_NormalState::UBTDecorator_NormalState(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
     NodeName = "Normal";
 }
 
 
-bool UBTDecorator_NormalState::CanEnterInState(ABaseCharacter * _target) const
+bool UBTDecorator_NormalState::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp) const
 {
-    ULifeComponent * life = _target->FindComponentByClass<ULifeComponent>();
-    
-    if(!life)
-    {
-        UE_LOG(LogTemp, Error, TEXT("[UBTDecorator_NormalState]This actor has no life component"))
-        return  false;
-    }
-    
+
     bool canEnter = false;
     
-    if(life->GetLife() > 0)
+    if(GetBehaviourComponent(_ownerComp)->GetNPCBehaviour() == ENPCBehaviour::Normal)
     {
         canEnter = true;
     }

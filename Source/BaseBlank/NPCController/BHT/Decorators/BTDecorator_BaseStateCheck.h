@@ -6,6 +6,7 @@
 #include "BTDecorator_BaseStateCheck.generated.h"
 
 class ABaseCharacter;
+class UBehaviourComponent;
 
 /**
  *Common class for all the decorators that will do state checking on the Character BHT
@@ -21,10 +22,12 @@ protected:
     UPROPERTY(EditAnywhere, Category=Blackboard)
     FBlackboardKeySelector TargetNPC;
     
+    UBehaviourComponent * GetBehaviourComponent(class UBehaviorTreeComponent * _ownerComp) const;
+    
     //Cache TargetNPC
-    virtual void InitializeFromAsset(class UBehaviorTree * _asset) override;
+    virtual void InitializeFromAsset(class UBehaviorTree & _asset) override;
     //Overload to do state checking, _target is always non null
-    virtual bool CanEnterInState(ABaseCharacter * _target) const;
+    virtual bool CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp) const;
     //Finds TargetNPC on the blackboard and does safety checks before calling CanEnterInState
     virtual bool CalculateRawConditionValue(class UBehaviorTreeComponent* _ownerComp, uint8* _nodeMemory) const override;
     

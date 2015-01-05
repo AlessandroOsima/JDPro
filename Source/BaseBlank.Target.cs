@@ -28,4 +28,5 @@ public class BaseBlankTarget : TargetRules
 
 		OutExtraModuleNames.AddRange( new string[] { "BaseBlank" } );
 	}
+
 }

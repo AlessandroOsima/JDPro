@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "17E67761BA3294911D134BFC"
+               BlueprintIdentifier = "3A052D9D8A2058A202E01796"
                BuildableName = "CrashReportClient - Mac"
                BlueprintName = "CrashReportClient - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
+               BlueprintIdentifier = "F439A6D0B5DDCD2C628C686A"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17E67761BA3294911D134BFC"
+            BlueprintIdentifier = "3A052D9D8A2058A202E01796"
             BuildableName = "CrashReportClient - Mac"
             BlueprintName = "CrashReportClient - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -59,12 +59,12 @@
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <PathRunnable
-         FilePath = "/Users/Alexo/UnrealEngine/UnrealEngine/Engine/Binaries/Mac/CrashReportClient-Mac-Debug.app">
+         FilePath = "/Users/Alexo/Documents/UnrealEngine/Engine/Binaries/Mac/CrashReportClient-Mac-Debug.app">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17E67761BA3294911D134BFC"
+            BlueprintIdentifier = "3A052D9D8A2058A202E01796"
             BuildableName = "CrashReportClient - Mac"
             BlueprintName = "CrashReportClient - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "17E67761BA3294911D134BFC"
+            BlueprintIdentifier = "3A052D9D8A2058A202E01796"
             BuildableName = "CrashReportClient.app"
             BlueprintName = "CrashReportClient"
             ReferencedContainer = "container:UE4.xcodeproj">

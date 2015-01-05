@@ -4,7 +4,7 @@
 #include "CharacterConfigurationAsset.h"
 
 
-UCharacterConfigurationAsset::UCharacterConfigurationAsset(const class FPostConstructInitializeProperties& PCIP)
+UCharacterConfigurationAsset::UCharacterConfigurationAsset(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
 

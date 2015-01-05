@@ -6,11 +6,12 @@
 
 NPCControllerBlackBoardKeys ANPCController::BlackboardKeys = NPCControllerBlackBoardKeys();
 
-ANPCController::ANPCController(const class FPostConstructInitializeProperties& PCIP)
+ANPCController::ANPCController(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
     BHTComponent = PCIP.CreateDefaultSubobject<UBehaviorTreeComponent>(this, TEXT("BehaviorTreeComponent"));
     BlackboardComponent = PCIP.CreateDefaultSubobject<UBlackboardComponent>(this, TEXT("BlackboardComponent"));
+    BehaviourComponent = PCIP.CreateDefaultSubobject<UBehaviourComponent>(this, TEXT("BehaviourCOmponent"));
 }
 
 void ANPCController::BeginPlay()
@@ -21,10 +22,12 @@ void ANPCController::BeginPlay()
     
     BlackboardComponent->InitializeBlackboard(BlackboardAsset);
     
-    BHTComponent->StartTree(BHTAsset);
+    
+    BHTComponent->StartTree(*BHTAsset);
     BHTComponent->PrimaryComponentTick.bCanEverTick = true;
     
     SetupBlackboardKeys();
+    
 }
 
 void ANPCController::SetupBlackboardKeys()
@@ -35,6 +38,7 @@ void ANPCController::SetupBlackboardKeys()
     if(toPossess)
     {
         BlackboardComponent->SetValueAsObject(ANPCController::BlackboardKeys.TargetActor, toPossess);
+        BlackboardComponent->SetValueAsInt(ANPCController::BlackboardKeys.TargetIndex, 0);
     }
 }
 
@@ -42,19 +46,22 @@ void ANPCController::Tick(float _deltaTime)
 {
     
     ABaseCharacter * BaseChr = Cast<ABaseCharacter>(BlackboardComponent->GetValueAsObject(ANPCController::BlackboardKeys.TargetActor));
-    
-    if(BaseChr)
-    {
-        UE_LOG(LogTemp, Log, TEXT("true"))
-    }
-    else
-    {
-        UE_LOG(LogTemp, Log, TEXT("false"))
-    }
-    
 }
 
 void ANPCController::Possess(APawn *_pawn)
 {
     Super::Possess(_pawn);
+    
+    ABaseCharacter * BaseChr = Cast<ABaseCharacter>(_pawn);
+    
+    if(BaseChr != nullptr)
+    {
+        BlackboardComponent->SetValueAsObject(ANPCController::BlackboardKeys.TargetActor, BaseChr);
+        BehaviourComponent->SetTargetNPC(BaseChr);
+    }
+    else
+    {
+        UE_LOG(LogTemp, Warning, TEXT("[ANPCController]Possessing a non BaseCharacter Pawn, that doesn't sound good"));
+    }
 }
+

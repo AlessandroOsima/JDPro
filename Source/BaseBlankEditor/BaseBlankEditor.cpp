@@ -11,11 +11,8 @@ void EditorModule::StartupModule()
     //FModuleManager & moduleManager = FModuleManager::Get();
     IAssetTools & assetTools = FAssetToolsModule::GetModule().Get();
     assetTools.RegisterAssetTypeActions(MakeShareable(new FAssetTypeActions_CharConfig));
-    
-    UE_LOG(LogTemp, Log, TEXT("Editor Module Startup"));
 }
 
 void EditorModule::ShutdownModule() 
 {
-    UE_LOG(LogTemp, Log, TEXT("Editor Module Shutdown"));
 }

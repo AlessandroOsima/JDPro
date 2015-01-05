@@ -3,7 +3,7 @@
 #include "BaseBlank.h"
 #include "DamageInfo.h"
 
-UDamageInfo::UDamageInfo(const class FPostConstructInitializeProperties& PCIP) : Super(PCIP)
+UDamageInfo::UDamageInfo(const class FObjectInitializer& PCIP) : Super(PCIP)
 {
     
 }

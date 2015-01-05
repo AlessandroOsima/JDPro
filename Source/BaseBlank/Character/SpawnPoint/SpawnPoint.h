@@ -19,15 +19,20 @@ class BASEBLANK_API ASpawnPoint : public AActor
     FRotator  m_rotator;
     FVector m_position;
     
+public:
+    
 	UPROPERTY(BlueprintReadWrite, EditAnywhere, Category=Configuration)
     UCharacterConfigurationAsset * CharacterConfiguration;
+    
+    UPROPERTY(EditInstanceOnly, Category="Spawn")
+    TArray<AActor *> PathPoints;
 
 public :
     
     UPROPERTY(BlueprintReadWrite, EditAnywhere, Category="Spawn")
     TSubclassOf<ABaseCharacter> CharacterToSpawn;
     
-    UFUNCTION(BlueprintCallable, Category="Spawn Character")
+    UFUNCTION(BlueprintCallable, Category="JD,Spawn Character")
     void Spawn();
 	
 };

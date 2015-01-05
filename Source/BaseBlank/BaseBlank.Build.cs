@@ -6,12 +6,12 @@ public class BaseBlank : ModuleRules
 {
 	public BaseBlank(TargetInfo Target)
 	{
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AIModule" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "UMG", "UE4Game" });
 
-		PrivateDependencyModuleNames.AddRange(new string[] {  });
+		//PrivateDependencyModuleNames.AddRange(new string[] {  });
 
-		// Uncomment if you are using Slate UI
-		// PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore" });
+		//Uncomment if you are using Slate UI
+		PrivateDependencyModuleNames.AddRange(new string[] { "Core", "Slate", "SlateCore", "UMG", "UE4Game" });
 		
 		// Uncomment if you are using online features
 		// PrivateDependencyModuleNames.Add("OnlineSubsystem");

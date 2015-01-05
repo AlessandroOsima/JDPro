@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "90EBEB319CD56BCFBA001DFD"
+               BlueprintIdentifier = "1A609C1CE06E4D1809819B98"
                BuildableName = "UE4EditorServices - Mac"
                BlueprintName = "UE4EditorServices - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
+               BlueprintIdentifier = "F439A6D0B5DDCD2C628C686A"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90EBEB319CD56BCFBA001DFD"
+            BlueprintIdentifier = "1A609C1CE06E4D1809819B98"
             BuildableName = "UE4EditorServices - Mac"
             BlueprintName = "UE4EditorServices - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -59,12 +59,12 @@
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <PathRunnable
-         FilePath = "/Users/Alexo/UnrealEngine/UnrealEngine/Engine/Binaries/Mac/UE4EditorServices-Mac-Debug.app">
+         FilePath = "/Users/Alexo/Documents/UnrealEngine/Engine/Binaries/Mac/UE4EditorServices-Mac-Debug.app">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90EBEB319CD56BCFBA001DFD"
+            BlueprintIdentifier = "1A609C1CE06E4D1809819B98"
             BuildableName = "UE4EditorServices - Mac"
             BlueprintName = "UE4EditorServices - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "90EBEB319CD56BCFBA001DFD"
+            BlueprintIdentifier = "1A609C1CE06E4D1809819B98"
             BuildableName = "UE4EditorServices.app"
             BlueprintName = "UE4EditorServices"
             ReferencedContainer = "container:UE4.xcodeproj">

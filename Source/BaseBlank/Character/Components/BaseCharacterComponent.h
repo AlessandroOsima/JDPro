@@ -17,11 +17,15 @@ UCLASS(Blueprintable)
 class BASEBLANK_API UBaseCharacterComponent : public UActorComponent
 {
 	GENERATED_UCLASS_BODY()
-
+    
     virtual void OnRegister() override;
     
     //Called just after the owner (if one exist) on begin play
     virtual void BeginPlay();
+    
+public:
+    UFUNCTION()
+    void SetOwnerConfiguration(UCharacterConfigurationAsset * _chrConfig);
     
     //Called by BeginPlay, notifies bps
     UFUNCTION(BlueprintImplementableEvent, Category=Lifecycle)
@@ -35,8 +39,13 @@ class BASEBLANK_API UBaseCharacterComponent : public UActorComponent
     //The base character blackboard
     UBlackboardComponent * m_ownerBlackboard;
     
+   
+    
+protected:
     //The owner configuration
     UCharacterConfigurationAsset * m_ownerConfiguration;
+    
+    virtual void OnOwnerConfigurationChange();
 
     
 };

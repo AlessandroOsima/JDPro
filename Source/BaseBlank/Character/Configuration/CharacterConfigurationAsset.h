@@ -18,13 +18,15 @@ class BASEBLANK_API UCharacterConfigurationAsset : public UDataAsset
     
 public:
     
-	UPROPERTY(EditAnywhere, Category=Life)
-    float Life = 100;
+    UPROPERTY(EditAnywhere, Category=Life)
+    float MaxLife = 100;
+    
+    UPROPERTY(EditAnywhere, Category=Life)
+    bool HealToMaxLifeOnConfigChange = 100;
     
     UPROPERTY(EditAnywhere, Category=Logic)
     UBehaviorTree * BehaviorTreeAsset;
     
     UPROPERTY(EditAnywhere, Category=Logic)
     UBlackboardData * BlackboardAsset;
-
 };

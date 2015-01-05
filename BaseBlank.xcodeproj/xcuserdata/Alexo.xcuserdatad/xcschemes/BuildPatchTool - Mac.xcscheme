@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A49EB1701689B3EF7F22FF35"
+               BlueprintIdentifier = "2F21AD2C31E613102D2AB42A"
                BuildableName = "BuildPatchTool - Mac"
                BlueprintName = "BuildPatchTool - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
+               BlueprintIdentifier = "F439A6D0B5DDCD2C628C686A"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A49EB1701689B3EF7F22FF35"
+            BlueprintIdentifier = "2F21AD2C31E613102D2AB42A"
             BuildableName = "BuildPatchTool - Mac"
             BlueprintName = "BuildPatchTool - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -59,12 +59,12 @@
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <PathRunnable
-         FilePath = "/Users/Alexo/UnrealEngine/UnrealEngine/Engine/Binaries/Mac/BuildPatchTool-Mac-Debug">
+         FilePath = "/Users/Alexo/Documents/UnrealEngine/Engine/Binaries/Mac/BuildPatchTool-Mac-Debug">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A49EB1701689B3EF7F22FF35"
+            BlueprintIdentifier = "2F21AD2C31E613102D2AB42A"
             BuildableName = "BuildPatchTool - Mac"
             BlueprintName = "BuildPatchTool - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A49EB1701689B3EF7F22FF35"
+            BlueprintIdentifier = "2F21AD2C31E613102D2AB42A"
             BuildableName = "BuildPatchTool"
             BlueprintName = "BuildPatchTool"
             ReferencedContainer = "container:UE4.xcodeproj">

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
+               BlueprintIdentifier = "AADA17AF8C0149FD1BFD6F19"
                BuildableName = "UnrealFileServer - Mac"
                BlueprintName = "UnrealFileServer - Mac"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C6A475B6BA444FF907EFD2B7"
+               BlueprintIdentifier = "F439A6D0B5DDCD2C628C686A"
                BuildableName = "UE4CmdLineRun.xctest"
                BlueprintName = "UE4CmdLineRun"
                ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
+            BlueprintIdentifier = "AADA17AF8C0149FD1BFD6F19"
             BuildableName = "UnrealFileServer - Mac"
             BlueprintName = "UnrealFileServer - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -59,12 +59,12 @@
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <PathRunnable
-         FilePath = "/Users/Alexo/UnrealEngine/UnrealEngine/Engine/Binaries/Mac/UnrealFileServer-Mac-Debug">
+         FilePath = "/Users/Alexo/Documents/UnrealEngine/Engine/Binaries/Mac/UnrealFileServer-Mac-Debug">
       </PathRunnable>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
+            BlueprintIdentifier = "AADA17AF8C0149FD1BFD6F19"
             BuildableName = "UnrealFileServer - Mac"
             BlueprintName = "UnrealFileServer - Mac"
             ReferencedContainer = "container:BaseBlank.xcodeproj">
@@ -82,7 +82,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "5F524DD880CC1D1C538B8BF3"
+            BlueprintIdentifier = "AADA17AF8C0149FD1BFD6F19"
             BuildableName = "UnrealFileServer"
             BlueprintName = "UnrealFileServer"
             ReferencedContainer = "container:UE4.xcodeproj">

@@ -13,6 +13,7 @@ class BASEBLANK_API UBTDecorator_DeadState : public UBTDecorator_BaseStateCheck
 {
 	GENERATED_UCLASS_BODY()
 
-    virtual bool CanEnterInState(ABaseCharacter * _target) const override;
+    
+    virtual bool CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp) const override;
 	
 };

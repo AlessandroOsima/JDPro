@@ -6,14 +6,14 @@
 #include "Character/Components/LifeComponent.h"
 #include "Character/Configuration/CharacterConfigurationAsset.h"
 
-ULifeComponent::ULifeComponent(const class FPostConstructInitializeProperties& PCIP)
+ULifeComponent::ULifeComponent(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
     m_bbKeyObserver = FOnBlackboardChange::CreateUObject(this, &ULifeComponent::OnApplyDamage);
 }
 
 
-float ULifeComponent::GetLife()
+float ULifeComponent::GetLife() const
 {
     return Life;
 }
@@ -26,6 +26,10 @@ void ULifeComponent::SetLife(float _life)
     {
         Life = 0;
     }
+    else if(Life > GetMaxLife())
+    {
+        Life = GetMaxLife();
+    }
 }
 
 void ULifeComponent::ApplyDamage(float _damage)
@@ -36,14 +40,27 @@ void ULifeComponent::ApplyDamage(float _damage)
     {
         Life = 0;
     }
+    else if(Life > GetMaxLife())
+    {
+        Life = GetMaxLife();
+    }
 }
 
+float ULifeComponent::GetMaxLife() const
+{
+    return m_ownerConfiguration->MaxLife;
+}
+
+void ULifeComponent::HealToFull()
+{
+    Life = GetMaxLife();
+}
 
 void ULifeComponent::BeginPlay()
 {
     Super::BeginPlay();
     
-    Life = m_ownerConfiguration->Life;
+    Life = GetMaxLife();
     
     m_ownerBlackboard->RegisterObserver(m_ownerBlackboard->GetKeyID(m_owner->GetBlackboardKeys().DamageInfo) , m_bbKeyObserver);
 }
@@ -62,5 +79,13 @@ void ULifeComponent::OnApplyDamage(const class UBlackboardComponent *_blk, FBlac
     else
     {
         UE_LOG(LogTemp, Warning, TEXT("[ULifeComponent]Received wrong blk entry"))
+    }
+}
+
+void ULifeComponent::OnOwnerConfigurationChange()
+{
+    if(m_ownerConfiguration->HealToMaxLifeOnConfigChange)
+    {
+        HealToFull();
     }
 }

@@ -2,4 +2,4 @@
 
 #include "BaseBlank.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, BaseBlank, "BaseBlank" );
+IMPLEMENT_GAME_MODULE( FDefaultGameModuleImpl, BaseBlank);

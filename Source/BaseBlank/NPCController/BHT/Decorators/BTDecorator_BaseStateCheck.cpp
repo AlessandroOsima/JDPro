@@ -3,16 +3,17 @@
 #include "BaseBlank.h"
 #include "BTDecorator_BaseStateCheck.h"
 #include "Character/BaseCharacter.h"
+#include "NPCController/Components/BehaviourComponent.h"
+#include "NPCController/NPCController.h"
 
-
-UBTDecorator_BaseStateCheck::UBTDecorator_BaseStateCheck(const class FPostConstructInitializeProperties& PCIP)
+UBTDecorator_BaseStateCheck::UBTDecorator_BaseStateCheck(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
     NodeName = "Base";
     TargetNPC.AddObjectFilter(this, ABaseCharacter::StaticClass());
 }
 
-void UBTDecorator_BaseStateCheck::InitializeFromAsset(class UBehaviorTree* _asset)
+void UBTDecorator_BaseStateCheck::InitializeFromAsset(class UBehaviorTree & _asset)
 {
     Super::InitializeFromAsset(_asset);
     
@@ -36,10 +37,27 @@ bool UBTDecorator_BaseStateCheck::CalculateRawConditionValue(class UBehaviorTree
     check(target);
     
     //Check for state conditions
-    return CanEnterInState(target);
+    return CanEnterInState(target, _ownerComp);
 }
 
-bool UBTDecorator_BaseStateCheck::CanEnterInState(ABaseCharacter * _target) const
+UBehaviourComponent * UBTDecorator_BaseStateCheck::GetBehaviourComponent(class UBehaviorTreeComponent * _ownerComp) const
+{
+   ANPCController * npcCtr = _ownerComp ? Cast<ANPCController>(_ownerComp->GetOwner()) : NULL;
+   
+    if(npcCtr != nullptr)
+    {
+        return npcCtr->BehaviourComponent;
+    }
+    else
+    {
+        UE_LOG(LogTemp, Error, TEXT("[UBTDecorator_BaseStateCheck]Unable to find NPCController"))
+        check(npcCtr)
+    }
+    
+    return nullptr;
+}
+
+bool UBTDecorator_BaseStateCheck::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp) const
 {
     return false;
 }

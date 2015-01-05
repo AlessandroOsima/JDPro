@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "D410678E-F848-B933-90F5-A39B7BE280F7",
+	"EngineAssociation": "6386A604-7148-E9EB-88D6-5AA5AF06BE5B",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -9,10 +9,10 @@
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		},
-                {
-                        "Name": "BaseBlankEditor",
-                        "Type": "Editor",
-                        "LoadingPhase": "Default"
-                } 
+		{
+			"Name": "BaseBlankEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
 	]
 }

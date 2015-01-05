@@ -6,9 +6,9 @@ public class BaseBlankEditor : ModuleRules
 {
 	public BaseBlankEditor(TargetInfo Target)
 	{
-		PublicDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore", "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "AssetTools", "BaseBlank", "UnrealEd" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore", "Core", "CoreUObject", "Engine", "InputCore", "AIModule", "AssetTools", "BaseBlank", "UnrealEd", "GameplayDebugger"  });
 
-		PrivateDependencyModuleNames.AddRange(new string[] { "AssetTools", "UnrealEd" });
+		PrivateDependencyModuleNames.AddRange(new string[] {  "UnrealEd", "AssetTools" });
 
 		//Uncomment if you are using Slate UI
 		PrivateDependencyModuleNames.AddRange(new string[] { "Slate", "SlateCore"});

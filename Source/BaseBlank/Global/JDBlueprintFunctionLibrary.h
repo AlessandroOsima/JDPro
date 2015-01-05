@@ -15,7 +15,7 @@ class BASEBLANK_API UJDBlueprintFunctionLibrary : public UBlueprintFunctionLibra
 {
 	GENERATED_UCLASS_BODY()
 
-    UFUNCTION(BlueprintCallable, Category="JD Functions")
+    UFUNCTION(BlueprintCallable, Category="JD,Global Functions")
     static UDamageInfo * CreateDamageInfo();
 	
 };

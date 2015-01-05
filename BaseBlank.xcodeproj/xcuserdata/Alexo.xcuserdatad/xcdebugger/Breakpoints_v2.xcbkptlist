@@ -345,146 +345,6 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlankEditor/BaseBlankEditor.cpp"
-            timestampString = "436745783.682181"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "15"
-            endingLineNumber = "15"
-            landmarkName = "EditorModule::StartupModule()"
-            landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "EditorModule::StartupModule()"
-                  moduleName = "UE4Editor-BaseBlankEditor-Mac-Debug.dylib"
-                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlankEditor/BaseBlankEditor.cpp"
-                  timestampString = "436746045.560128"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "1556">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "EditorModule::StartupModule()"
-                  moduleName = "UE4Editor-BaseBlankEditor-Mac-Debug.dylib"
-                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlankEditor/BaseBlankEditor.cpp"
-                  timestampString = "436746045.560383"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "15"
-                  endingLineNumber = "15"
-                  offsetFromSymbolStart = "1648">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlankEditor/BaseBlankEditor.cpp"
-            timestampString = "436745785.964365"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "20"
-            endingLineNumber = "20"
-            landmarkName = "EditorModule::ShutdownModule()"
-            landmarkType = "5">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "EditorModule::ShutdownModule()"
-                  moduleName = "UE4Editor-BaseBlankEditor-Mac-Debug.dylib"
-                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlankEditor/BaseBlankEditor.cpp"
-                  timestampString = "436746045.560669"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "67">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "EditorModule::ShutdownModule()"
-                  moduleName = "UE4Editor-BaseBlankEditor-Mac-Debug.dylib"
-                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlankEditor/BaseBlankEditor.cpp"
-                  timestampString = "436746045.560863"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "20"
-                  endingLineNumber = "20"
-                  offsetFromSymbolStart = "156">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlankEditor/BaseBlankEditor.cpp"
-            timestampString = "436745791.301721"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "11"
-            endingLineNumber = "11"
-            landmarkName = "EditorModule::StartupModule()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlankEditor/BaseBlankEditor.cpp"
-            timestampString = "436745792.223536"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "12"
-            endingLineNumber = "12"
-            landmarkName = "EditorModule::StartupModule()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlankEditor/BaseBlankEditor.cpp"
-            timestampString = "436745914.608345"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "13"
-            endingLineNumber = "13"
-            landmarkName = "EditorModule::StartupModule()"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
             filePath = "../../../UnrealEngine/UnrealEngine/Engine/Source/Developer/AssetTools/Private/AssetTools.cpp"
             timestampString = "436745953.227294"
             startingColumnNumber = "9223372036854775807"
@@ -502,11 +362,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436831678.211147"
+            timestampString = "441511923.05798"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
             landmarkName = "ABaseCharacter::BeginPlay()"
             landmarkType = "5">
          </BreakpointContent>
@@ -534,7 +394,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Source/BaseBlank/Character/SpawnPoint/SpawnPoint.cpp"
-            timestampString = "436838036.583265"
+            timestampString = "437004740.09126"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "22"
@@ -550,11 +410,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Source/BaseBlank/Global/BaseBlankGameMode.cpp"
-            timestampString = "436833950.188108"
+            timestampString = "441581766.766656"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "28"
-            endingLineNumber = "28"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
             landmarkName = "ABaseBlankGameMode::HandleMatchIsWaitingToStart()"
             landmarkType = "5">
          </BreakpointContent>
@@ -566,7 +426,23 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436835218.088729"
+            timestampString = "441511923.05798"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "ABaseCharacter::BeginPlay()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
+            timestampString = "441511923.05798"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "54"
@@ -582,11 +458,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436835233.27766"
+            timestampString = "441511923.05798"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "50"
-            endingLineNumber = "50"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
             landmarkName = "ABaseCharacter::BeginPlay()"
             landmarkType = "5">
          </BreakpointContent>
@@ -598,12 +474,714 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436835327.905667"
+            timestampString = "441511923.05798"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "ABaseCharacter::BeginPlay()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
+            timestampString = "441511923.05798"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "ABaseCharacter::BeginPlay()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
+            timestampString = "441511923.05798"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "ABaseCharacter::BeginPlay()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228399.274762"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "602"
+            endingLineNumber = "602"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228423.324137"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "562"
+            endingLineNumber = "562"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228425.613973"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "550"
+            endingLineNumber = "550"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228429.303818"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "568"
+            endingLineNumber = "568"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228432.423792"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "588"
+            endingLineNumber = "588"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228435.99363"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "596"
+            endingLineNumber = "596"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437228437.163602"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "599"
+            endingLineNumber = "599"
+            landmarkName = "AAIController::MoveToLocation(const FVector&amp; Dest, float AcceptanceRadius, bool bStopOnOverlap, bool bUsePathfinding, bool bProjectDestinationToNavigation, bool bCanStrafe, TSubclassOf&lt;UNavigationQueryFilter&gt; FilterClass)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/AITypes.h"
+            timestampString = "437228545.480654"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "265"
+            endingLineNumber = "265">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Tasks/BTTask_MoveTo.cpp"
+            timestampString = "437232016.307354"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "UBTTask_MoveTo::PerformMoveTask(UBehaviorTreeComponent* OwnerComp, uint8* NodeMemory)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Tasks/BTTask_MoveTo.cpp"
+            timestampString = "437232028.167999"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "UBTTask_MoveTo::PerformMoveTask(UBehaviorTreeComponent* OwnerComp, uint8* NodeMemory)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/BehaviorTree/Tasks/BTTask_MoveTo.cpp"
+            timestampString = "437232036.587923"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "UBTTask_MoveTo::PerformMoveTask(UBehaviorTreeComponent* OwnerComp, uint8* NodeMemory)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437232284.200776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "663"
+            endingLineNumber = "663"
+            landmarkName = "AAIController::FindPath(const FVector&amp; Dest, bool bUsePathfinding, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437232285.210804"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "667"
+            endingLineNumber = "667"
+            landmarkName = "AAIController::FindPath(const FVector&amp; Dest, bool bUsePathfinding, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AAIController::FindPath(FVector const&amp;, bool, TSharedPtr&lt;FNavigationQueryFilter const, (ESPMode)0&gt;)"
+                  moduleName = "UE4Editor-AIModule-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+                  timestampString = "437232285.215641"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "668"
+                  endingLineNumber = "668"
+                  offsetFromSymbolStart = "766">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AAIController::FindPath(FVector const&amp;, bool, TSharedPtr&lt;FNavigationQueryFilter const, (ESPMode)0&gt;)"
+                  moduleName = "UE4Editor-AIModule-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+                  timestampString = "437232285.215834"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "668"
+                  endingLineNumber = "668"
+                  offsetFromSymbolStart = "903">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/AIController.cpp"
+            timestampString = "437232286.943116"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "660"
+            endingLineNumber = "660"
+            landmarkName = "AAIController::FindPath(const FVector&amp; Dest, bool bUsePathfinding, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232298.325377"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "652"
+            endingLineNumber = "652"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232330.739589"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "657"
+            endingLineNumber = "657"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232335.359362"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "700"
+            endingLineNumber = "700"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232340.549244"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "690"
+            endingLineNumber = "690"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232342.380272"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "686"
+            endingLineNumber = "686"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232347.809992"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "681"
+            endingLineNumber = "681"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/NavigationComponent.cpp"
+            timestampString = "437232351.079951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "675"
+            endingLineNumber = "675"
+            landmarkName = "UNavigationComponent::FindPathToLocation(const FVector&amp; DestLocation, TSharedPtr&lt;const FNavigationQueryFilter&gt; QueryFilter)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/Navigation/NavigationComponent.h"
+            timestampString = "437232447.907287"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UNavigationSystem::SimpleMoveToActor(AController*, AActor const*)"
+                  moduleName = "UE4Editor-Engine-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/Navigation/NavigationComponent.h"
+                  timestampString = "437232448.227607"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "3556">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UNavigationSystem::SimpleMoveToLocation(AController*, FVector const&amp;)"
+                  moduleName = "UE4Editor-Engine-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/Navigation/NavigationComponent.h"
+                  timestampString = "437232448.227848"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "2604">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AAIController::FindPath(AActor*, bool, TSharedPtr&lt;FNavigationQueryFilter const, (ESPMode)0&gt;)"
+                  moduleName = "UE4Editor-AIModule-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/Navigation/NavigationComponent.h"
+                  timestampString = "437232448.22801"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AAIController::FindPath(FVector const&amp;, bool, TSharedPtr&lt;FNavigationQueryFilter const, (ESPMode)0&gt;)"
+                  moduleName = "UE4Editor-AIModule-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/Navigation/NavigationComponent.h"
+                  timestampString = "437232448.228147"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "596">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UGameplayDebuggingComponent::CollectPathData()"
+                  moduleName = "UE4Editor-GameplayDebugger-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Classes/Navigation/NavigationComponent.h"
+                  timestampString = "437232448.228291"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "546">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/AIModule/Private/Navigation/PathFollowingComponent.cpp"
+            timestampString = "437233991.260262"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "UPathFollowingComponent::RequestMove(FNavPathSharedPtr InPath, FRequestCompletedSignature OnComplete, const AActor* InDestinationActor, float InAcceptanceRadius, bool bInStopOnOverlap, FCustomMoveSharedPtr InGameData)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Task/BTTask_SelectMoveTarget.cpp"
+            timestampString = "439686549.722476"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "UBTTask_SelectMoveTarget::GetStaticDescription()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UBTTask_SelectMoveTarget::GetStaticDescription() const"
+                  moduleName = "UE4Editor-BaseBlank-Mac-DebugGame.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/BHT/Task/BTTask_SelectMoveTarget.cpp"
+                  timestampString = "439685916.481415"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UBTTask_SelectMoveTarget::GetStaticDescription() const"
+                  moduleName = "UE4Editor-BaseBlank-8232-Mac-DebugGame.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/BHT/Task/BTTask_SelectMoveTarget.cpp"
+                  timestampString = "439685916.481633"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "91"
+                  endingLineNumber = "91"
+                  offsetFromSymbolStart = "309">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UBTTask_SelectMoveTarget::GetStaticDescription() const"
+                  moduleName = "UE4Editor-BaseBlank-4531-Mac-DebugGame.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/BHT/Task/BTTask_SelectMoveTarget.cpp"
+                  timestampString = "439685946.770214"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Decorators/BTDecorator_NormalState.cpp"
+            timestampString = "439692948.153408"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "UBTDecorator_NormalState::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Decorators/BTDecorator_NormalState.cpp"
+            timestampString = "439692949.563504"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "UBTDecorator_NormalState::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Decorators/BTDecorator_DeadState.cpp"
+            timestampString = "439692963.422946"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "UBTDecorator_DeadState::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Decorators/BTDecorator_DeadState.cpp"
+            timestampString = "439692963.733401"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "UBTDecorator_DeadState::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Decorators/BTDecorator_DeadState.cpp"
+            timestampString = "439692964.96299"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "UBTDecorator_DeadState::CanEnterInState(ABaseCharacter * _target, class UBehaviorTreeComponent * _ownerComp)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439692981.592702"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439692983.842689"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439692984.842522"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439692986.333326"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "30"
             endingLineNumber = "30"
-            landmarkName = "ABaseCharacter::BeginPlay()"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -613,13 +1191,13 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436835328.425747"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439692988.352471"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "29"
-            endingLineNumber = "29"
-            landmarkName = "ABaseCharacter::BeginPlay()"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -629,13 +1207,361 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436835335.305339"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439692989.852431"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/Components/BehaviourComponent.cpp"
+            timestampString = "439693076.410136"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "UBehaviourComponent::GetNPCBehaviour()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/BHT/Decorators/BTDecorator_DeadState.cpp"
+            timestampString = "439733427.346157"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "8"
+            endingLineNumber = "8"
+            landmarkName = "UBTDecorator_DeadState::UBTDecorator_DeadState(const class FObjectInitializer&amp; PCIP)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310365.872457"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3926"
+            endingLineNumber = "3926"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310368.055229"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3918"
+            endingLineNumber = "3918"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310369.242311"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3912"
+            endingLineNumber = "3912"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310370.322117"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3906"
+            endingLineNumber = "3906"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310375.852086"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3877"
+            endingLineNumber = "3877"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310376.878347"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3880"
+            endingLineNumber = "3880"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310377.661936"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3885"
+            endingLineNumber = "3885"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310378.949876"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3868"
+            endingLineNumber = "3868"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310379.861778"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3863"
+            endingLineNumber = "3863"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310381.55197"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3897"
+            endingLineNumber = "3897"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310772.695199"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3861"
+            endingLineNumber = "3861"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../UnrealEngine/UnrealEngine/UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441310773.80342"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3859"
+            endingLineNumber = "3859"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/NPCController.cpp"
+            timestampString = "441310837.731549"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "ANPCController::BeginPlay()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ANPCController::BeginPlay()"
+                  moduleName = "UE4Editor-BaseBlank-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/NPCController.cpp"
+                  timestampString = "441326818.687288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ANPCController::BeginPlay()"
+                  moduleName = "UE4Editor-BaseBlank-5982-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/NPCController.cpp"
+                  timestampString = "441326818.687518"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/NPCController.cpp"
+            timestampString = "441310842.201334"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "ANPCController::SetupBlackboardKeys()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ANPCController::SetupBlackboardKeys()"
+                  moduleName = "UE4Editor-BaseBlank-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/NPCController.cpp"
+                  timestampString = "441326818.688146"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ANPCController::SetupBlackboardKeys()"
+                  moduleName = "UE4Editor-BaseBlank-5982-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/Documents/Unreal%20Projects/BaseBlank/Source/BaseBlank/NPCController/NPCController.cpp"
+                  timestampString = "441326818.688381"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/NPCController.cpp"
+            timestampString = "441310848.347735"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "ANPCController::Possess(APawn *_pawn)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/NPCController/NPCController.cpp"
+            timestampString = "441311835.562722"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "48"
             endingLineNumber = "48"
-            landmarkName = "ABaseCharacter::BeginPlay()"
+            landmarkName = "ANPCController::Tick(float _deltaTime)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>
@@ -645,13 +1571,759 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "Source/BaseBlank/Character/BaseCharacter.cpp"
-            timestampString = "436836163.22747"
+            filePath = "Source/BaseBlank/NPCController/NPCController.cpp"
+            timestampString = "441312060.612962"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "55"
-            endingLineNumber = "55"
-            landmarkName = "ABaseCharacter::BeginPlay()"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "ANPCController::BeginPlay()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3863"
+            endingLineNumber = "3863"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3868"
+            endingLineNumber = "3868"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3871"
+            endingLineNumber = "3871"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3897"
+            endingLineNumber = "3897"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3906"
+            endingLineNumber = "3906"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3912"
+            endingLineNumber = "3912"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3918"
+            endingLineNumber = "3918"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3926"
+            endingLineNumber = "3926"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3861"
+            endingLineNumber = "3861"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3866"
+            endingLineNumber = "3866"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3875"
+            endingLineNumber = "3875"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3877"
+            endingLineNumber = "3877"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3876"
+            endingLineNumber = "3876"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3898"
+            endingLineNumber = "3898"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3901"
+            endingLineNumber = "3901"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/PrimitiveComponent.cpp"
+            timestampString = "441326805.434063"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1250"
+            endingLineNumber = "1250"
+            landmarkName = "UPrimitiveComponent::MoveComponent( const FVector&amp; Delta, const FRotator&amp; NewRotation, bool bSweep, FHitResult* OutHit, EMoveComponentFlags MoveFlags)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPrimitiveComponent::MoveComponent(FVector const&amp;, FRotator const&amp;, bool, FHitResult*, EMoveComponentFlags)"
+                  moduleName = "UE4Editor-Engine-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/Documents/UnrealEngine/Engine/Source/Runtime/Engine/Private/PrimitiveComponent.cpp"
+                  timestampString = "441326818.692046"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1250"
+                  endingLineNumber = "1250"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UPrimitiveComponent::MoveComponent(FVector const&amp;, FRotator const&amp;, bool, FHitResult*, EMoveComponentFlags)"
+                  moduleName = "UE4Editor-Engine-Mac-Debug.dylib"
+                  urlString = "file:///Users/Alexo/Documents/UnrealEngine/Engine/Source/Runtime/Engine/Private/PrimitiveComponent.cpp"
+                  timestampString = "441326818.692288"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1250"
+                  endingLineNumber = "1250"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/PrimitiveComponent.cpp"
+            timestampString = "441327027.669101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1261"
+            endingLineNumber = "1261"
+            landmarkName = "UPrimitiveComponent::MoveComponent( const FVector&amp; Delta, const FRotator&amp; NewRotation, bool bSweep, FHitResult* OutHit, EMoveComponentFlags MoveFlags)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/MovementComponent.cpp"
+            timestampString = "441327074.19784"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "419"
+            endingLineNumber = "419"
+            landmarkName = "UMovementComponent::MoveUpdatedComponent( const FVector&amp; Delta, const FRotator&amp; NewRotation, bool bSweep, FHitResult* OutHit)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/MovementComponent.cpp"
+            timestampString = "441327075.24775"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "422"
+            endingLineNumber = "422"
+            landmarkName = "UMovementComponent::MoveUpdatedComponent( const FVector&amp; Delta, const FRotator&amp; NewRotation, bool bSweep, FHitResult* OutHit)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/MovementComponent.cpp"
+            timestampString = "441327078.147799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "425"
+            endingLineNumber = "425"
+            landmarkName = "UMovementComponent::MoveUpdatedComponent( const FVector&amp; Delta, const FRotator&amp; NewRotation, bool bSweep, FHitResult* OutHit)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/Pawn.cpp"
+            timestampString = "441327180.885157"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "846"
+            endingLineNumber = "846"
+            landmarkName = "APawn::FaceRotation(FRotator NewControlRotation, float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/Pawn.cpp"
+            timestampString = "441327181.334914"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "847"
+            endingLineNumber = "847"
+            landmarkName = "APawn::FaceRotation(FRotator NewControlRotation, float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3881"
+            endingLineNumber = "3881"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3885"
+            endingLineNumber = "3885"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3907"
+            endingLineNumber = "3907"
+            landmarkName = "UCharacterMovementComponent::PhysicsRotation(float DeltaTime)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441333680.01774"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3848"
+            endingLineNumber = "3848"
+            landmarkName = "UCharacterMovementComponent::ComputeOrientToMovementRotation(const FRotator&amp; CurrentRotation, float DeltaTime, FRotator&amp; DeltaRotation)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441329143.279455"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2209"
+            endingLineNumber = "2209"
+            landmarkName = "UCharacterMovementComponent::ApplyRequestedMove(float DeltaTime, float MaxAccel, float MaxSpeed, float Friction, float BrakingDeceleration, FVector&amp; OutAcceleration, float&amp; OutRequestedSpeed)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441329144.059376"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2208"
+            endingLineNumber = "2208"
+            landmarkName = "UCharacterMovementComponent::ApplyRequestedMove(float DeltaTime, float MaxAccel, float MaxSpeed, float Friction, float BrakingDeceleration, FVector&amp; OutAcceleration, float&amp; OutRequestedSpeed)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../UnrealEngine/Engine/Source/Runtime/Engine/Private/CharacterMovementComponent.cpp"
+            timestampString = "441330458.74121"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "3843"
+            endingLineNumber = "3843"
+            landmarkName = "UCharacterMovementComponent::ComputeOrientToMovementRotation(const FRotator&amp; CurrentRotation, float DeltaTime, FRotator&amp; DeltaRotation)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Character/Components/LifeComponent.h"
+            timestampString = "441510834.672956"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/CameraPawn.h"
+            timestampString = "441777095.239903"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845429.074536"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "UPowerRayCasterComponent::TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845429.665756"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "UPowerRayCasterComponent::TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845490.492975"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "UPowerRayCasterComponent::OnRegister()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845491.722768"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "UPowerRayCasterComponent::OnRegister()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845531.261832"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "UPowerRayCasterComponent::OnRegister()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845547.022526"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "UPowerRayCasterComponent::SelectPower(int32 _power)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845554.222171"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "UPowerRayCasterComponent::SelectPower(int32 _power)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845555.062149"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "UPowerRayCasterComponent::SelectPower(int32 _power)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441845556.392218"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "UPowerRayCasterComponent::SelectPower(int32 _power)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441848421.089411"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "UPowerRayCasterComponent::TickComponent(float DeltaTime, enum ELevelTick TickType, FActorComponentTickFunction *ThisTickFunction)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/CameraPawn.cpp"
+            timestampString = "441848989.73877"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "ACameraPawn::OnPowerNext()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/CameraPawn.cpp"
+            timestampString = "441848991.068824"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "ACameraPawn::OnPowerPrevious()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/CameraPawn.cpp"
+            timestampString = "441849010.008299"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "172"
+            endingLineNumber = "172"
+            landmarkName = "ACameraPawn::OnPowerUsed()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Source/BaseBlank/Camera/Components/PowerRayCasterComponent.cpp"
+            timestampString = "441849389.029797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "111"
+            endingLineNumber = "111"
+            landmarkName = "UPowerRayCasterComponent::SelectPower(int32 _power)"
             landmarkType = "5">
          </BreakpointContent>
       </BreakpointProxy>

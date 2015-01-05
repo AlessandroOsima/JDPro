@@ -6,7 +6,7 @@
 #include "Engine/World.h"
 
 
-ASpawnPoint::ASpawnPoint(const class FPostConstructInitializeProperties& PCIP)
+ASpawnPoint::ASpawnPoint(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
 }
@@ -19,5 +19,6 @@ void ASpawnPoint::Spawn()
     
     AActor * spawnedActor = GetWorld()->SpawnActor(CharacterToSpawn, &m_position, &m_rotator, FActorSpawnParameters());
     ABaseCharacter * baseChr = Cast<ABaseCharacter>(spawnedActor);
-    baseChr->Configuration = CharacterConfiguration;
+    baseChr->SetCharacterConfiguration(CharacterConfiguration);
+    baseChr->PathPointsComponent->SetPathPoints(PathPoints);
 }

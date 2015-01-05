@@ -4,7 +4,7 @@
 #include "JDBlueprintFunctionLibrary.h"
 #include "Character/Components/DamageInfo.h"
 
-UJDBlueprintFunctionLibrary::UJDBlueprintFunctionLibrary(const class FPostConstructInitializeProperties& PCIP)
+UJDBlueprintFunctionLibrary::UJDBlueprintFunctionLibrary(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
 

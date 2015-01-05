@@ -5,14 +5,18 @@
 #include "Character/Components/BaseCharacterComponent.h"
 #include "Character/BaseCharacter.h"
 #include "Character/Configuration/CharacterConfigurationAsset.h"
+#include "Components/PathPointsComponent.h"
 
 BaseCharacterBlackBoardKeys ABaseCharacter::s_blackboardKeys = BaseCharacterBlackBoardKeys();
 
-ABaseCharacter::ABaseCharacter(const class FPostConstructInitializeProperties& PCIP)
+ABaseCharacter::ABaseCharacter(const class FObjectInitializer& PCIP)
 	: Super(PCIP)
 {
     BHTComponent = PCIP.CreateDefaultSubobject<UBehaviorTreeComponent>(this, TEXT("BehaviorTreeComponent"));
     BlackboardComponent = PCIP.CreateDefaultSubobject<UBlackboardComponent>(this, TEXT("BlackboardComponent"));
+    PathPointsComponent = PCIP.CreateDefaultSubobject<UPathPointsComponent>(this, TEXT("PathPointsComponent"));
+    LifeComponent = PCIP.CreateDefaultSubobject<ULifeComponent>(this, TEXT("LifeComponent"));
+    
     this->PrimaryActorTick.bCanEverTick = true;
     this->PrimaryActorTick.bStartWithTickEnabled = true;
 }
@@ -44,7 +48,7 @@ void ABaseCharacter::BeginPlay()
     BlackboardComponent->InitializeBlackboard(BlackboardAsset);
     
     BHTComponent->RegisterComponent();
-    BHTComponent->StartTree(BHTAsset);
+    BHTComponent->StartTree(*BHTAsset);
     BHTComponent->PrimaryComponentTick.bCanEverTick = true;
     
     auto componentsArray = GetComponentsByClass(UBaseCharacterComponent::StaticClass());
@@ -52,6 +56,26 @@ void ABaseCharacter::BeginPlay()
     for(UActorComponent * component : componentsArray)
     {
         Cast<UBaseCharacterComponent>(component)->BeginPlay();
+    }
+}
+
+void ABaseCharacter::SetCharacterConfiguration(UCharacterConfigurationAsset *_charConfig)
+{
+    if(_charConfig != nullptr)
+    {
+        Configuration = _charConfig;
+        
+        auto baseChrComponents = this->GetComponentsByClass(UBaseCharacterComponent::StaticClass());
+        
+        for(int i = 0; i < baseChrComponents.Num(); i++)
+        {
+            UBaseCharacterComponent * bc = Cast<UBaseCharacterComponent>(baseChrComponents[i]);
+            bc->SetOwnerConfiguration(_charConfig);
+        }
+    }
+    else
+    {
+        UE_LOG(LogTemp, Error, TEXT("[BaseCharacter]Trying to set null configuration"));
     }
 }
 
@@ -74,6 +98,11 @@ void ABaseCharacter::ApplyDamage(UDamageInfo * _damageInfo)
 /*
 void ABaseCharacter::Tick(float _deltaTime)
 {
-
+    //this->FaceRotation(this->GetVelocity().SafeNormal().Rotation());
+    
+    DrawDebugLine(GetWorld(), this->GetActorLocation() , this->GetActorLocation() + this->GetActorForwardVector() * 5, FColor::Yellow);
+    
+    //DrawDebugLine(GetWorld(), this->GetActorLocation() , this->GetActorLocation() + this->GetVelocity(), FColor::Green);
 }
 */
+

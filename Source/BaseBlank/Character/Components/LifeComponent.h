@@ -25,17 +25,25 @@ public:
     
     virtual void BeginPlay() override;
     
-    UFUNCTION()
-    float GetLife();
+    UFUNCTION(BlueprintCallable, Category="JD,NPC Life Management")
+    float GetLife() const;
     
-    UFUNCTION()
+    UFUNCTION(BlueprintCallable, Category="JD,NPC Life Management")
     void SetLife(float _life);
     
+    UFUNCTION(BlueprintCallable, Category="JD,NPC Life Management")
+    void HealToFull();
+    
     //Damage can be positive or negative.
-    UFUNCTION()
+    UFUNCTION(BlueprintCallable, Category="JD,NPC Life Management")
     void ApplyDamage(float _damage);
     
     //Listener on the blk for damage data
     void OnApplyDamage(const class UBlackboardComponent * _blk, FBlackboard::FKey _key);
 	
+    float GetMaxLife() const;
+    
+protected:
+    virtual void OnOwnerConfigurationChange() override;
+    
 };
